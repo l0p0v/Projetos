@@ -12,8 +12,8 @@ navegador = webdriver.Chrome(options=options)
 # gerar palavra
 navegador.get('https://www.palabrasaleatorias.com/palavras-aleatorias.php?fs=1&fs2=0&Submit=Nova+palavra')
 palavra = navegador.find_element(By.XPATH, '/html/body/center/center/table[1]/tbody/tr/td/div').text
-# tirar acentos palavra
-palavra = unidecode(palavra).lower()
+# formatar a palavra
+palavra = unidecode(palavra).strip().lower()
 # fechar navegador
 navegador.quit()
 
