@@ -34,7 +34,7 @@ while chances > 0:
     if letra in palavra and digitadas.count(letra) == 0:
         print(f'\033[32mwow, a letra "{letra}" exista na palavra secreta.\033[m')
         digitadas.append(letra)
-    elif letra not in erros:
+    elif letra not in erros and letra not in palavra:
         print(f'\033[31maff, a letra "{letra}" não existe na palavra secreta.\033[m')
         chances -= 1
         erros.append(letra)
