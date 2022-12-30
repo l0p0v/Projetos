@@ -1,0 +1,16 @@
+Banco Central                                   Taxa Atual          Reunião             Última Mudança
+
+Banco Central do Brasil (BCB)                   13,75%              07.12.2022          03.08.2022 (50bp)
+Banco Central Europeu (ECB)                     2,00%               15.12.2022          27.10.2022 (75bp)
+Reserva Federal (FED)                           3,25%               02.11.2022          21.09.2022 (75bp)
+Banco da Inglaterra (BOE)                       2,25%               03.11.2022          22.09.2022 (50bp)
+Banco Nacional Suíço (SNB)                      0,50%               15.12.2022          22.09.2022 (75bp)
+Banco da Reserva da Austrália (RBA)             2,60%               06.12.2022          04.10.2022 (25bp)
+Banco do Canadá (BOC)                           3,75%               07.12.2022          26.10.2022 (50bp)
+Banco do Japão (BOJ)                            -0,10%              28.10.2022          29.01.2016 (-20bp)
+Banco Central da Federação Russa (CBR)          7,50%               28.10.2022          16.09.2022 (-50bp)
+Banco de Reserva da Índia (RBI)                 5,90%               07.12.2022          30.09.2022 (50bp)
+Banco Popular da China (PBOC)                   3,65%                                   22.08.2022 (-5bp)
+
+Banco com a melhor taxa atual: Banco Central do Brasil (BCB)
+Banco com a pior taxa atual: Banco do Japão (BOJ)
